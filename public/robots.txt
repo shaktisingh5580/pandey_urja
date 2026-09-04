@@ -1,0 +1,28 @@
+# User-agent directives for Web Crawlers & AI Agents
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# AI Crawlers & LLM Agents
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+# Sitemaps & Structured Data
+Sitemap: https://pandeyurja.in/sitemap.xml
+# LLM Context: https://pandeyurja.in/llms.txt
+# Machine-readable JSON: https://pandeyurja.in/company-data.json

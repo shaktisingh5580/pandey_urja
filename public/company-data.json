@@ -1,0 +1,206 @@
+{
+  "company": {
+    "name": "Pandey Urja LLP",
+    "legalName": "Pandey Urja LLP",
+    "brandCategory": "Solar Solutions & Services",
+    "tagline": "Infinite Energy, Endless Trust",
+    "motto": "Complete Solar Solutions for Your Property",
+    "description": "Pandey Urja LLP is a full-service solar solutions and EPC company based in Surat, Gujarat. We plan, supply, install, and support solar energy systems for residential homes, housing societies, commercial properties, and industrial facilities.",
+    "corePhilosophy": "You come to us with your electricity requirement, and our single team manages the project from start to finish. No middlemen, no jargon, and long-term support.",
+    "fourStepApproach": [
+      {
+        "step": 1,
+        "title": "Understand the Requirement",
+        "description": "We analyze your 12-month electricity bills, terrace space, and load profile before recommending any system."
+      },
+      {
+        "step": 2,
+        "title": "Design the Right Solution",
+        "description": "Site-specific solar design engineered around your roof structure to maximize power output across all seasons."
+      },
+      {
+        "step": 3,
+        "title": "Execute Properly",
+        "description": "Certified Tier-1 equipment, mechanical structure anchoring, chemical copper earthing, and thorough pre-commissioning testing."
+      },
+      {
+        "step": 4,
+        "title": "Support the System Afterwards",
+        "description": "DISCOM net metering approvals, PM Surya Ghar subsidy assistance, regular panel washing, and lifetime AMC service."
+      }
+    ]
+  },
+  "contact": {
+    "phone": "+91 98765 43210",
+    "email": "your@pandeyurja.in",
+    "whatsapp": "https://wa.me/919876543210",
+    "website": "https://pandeyurja.in",
+    "workingHours": {
+      "days": "Monday – Saturday",
+      "hours": "9:00 AM – 8:00 PM",
+      "timezone": "Asia/Kolkata (IST)"
+    }
+  },
+  "location": {
+    "address": {
+      "office": "Office No. 123",
+      "building": "Vaibhav Laxmi Complex",
+      "landmark": "Near Sangam Chowkdi",
+      "neighborhood": "Bhestan",
+      "city": "Surat",
+      "state": "Gujarat",
+      "postalCode": "395023",
+      "country": "India"
+    },
+    "fullAddress": "Office No. 123, Vaibhav Laxmi Complex, near Sangam Chowkdi, Bhestan, Surat, Gujarat 395023",
+    "geoCoordinates": {
+      "latitude": 21.1227958,
+      "longitude": 72.8466435
+    },
+    "googleMapsUrl": "https://www.google.com/maps/place/Pandey+Urja+LLP/@21.1227958,72.8466435,17z"
+  },
+  "serviceAreas": [
+    "Surat",
+    "Bhestan",
+    "Vesu",
+    "Adajan",
+    "Pal",
+    "Katargam",
+    "Varachha",
+    "Pandesara",
+    "Sachin Industrial Area",
+    "Hazira",
+    "Navsari",
+    "Bardoli",
+    "South Gujarat"
+  ],
+  "brandAssets": {
+    "primaryLogo": "https://pandeyurja.in/Pandey_Urja_LLP_logo_ULTRA_HD_8K_7680px.png",
+    "heroDesktop": "https://pandeyurja.in/hero-bg-desktop.png",
+    "heroMobile": "https://pandeyurja.in/hero-bg-mobile.png",
+    "residentialProject": "https://pandeyurja.in/residential.png",
+    "commercialProject": "https://pandeyurja.in/solar_comme.jpg",
+    "industrialProject": "https://pandeyurja.in/indrustial.jpg",
+    "serviceImages": {
+      "consultation": "https://pandeyurja.in/whatdowedo/consolation.webp",
+      "systemDesign": "https://pandeyurja.in/whatdowedo/Solar%20System%20Design.webp",
+      "equipmentSupply": "https://pandeyurja.in/whatdowedo/equipments.webp",
+      "installation": "https://pandeyurja.in/whatdowedo/installation.webp",
+      "maintenance": "https://pandeyurja.in/whatdowedo/cleaning.webp",
+      "familyHome": "https://pandeyurja.in/family.webp"
+    }
+  },
+  "services": [
+    {
+      "id": "consultation",
+      "stage": "01",
+      "title": "Solar Consultation",
+      "category": "Pre-Project Planning",
+      "description": "We check your electricity bills, sanctioned load, and property space to recommend the right capacity before you invest.",
+      "scope": [
+        "Analysis of previous 12 months electricity consumption",
+        "Rooftop space and structural feasibility check",
+        "Shading analysis and orientation assessment",
+        "Realistic cost, yield, and payback period calculation"
+      ]
+    },
+    {
+      "id": "design",
+      "stage": "02",
+      "title": "Solar System Design",
+      "category": "System Design",
+      "description": "Complete system layout designed around your roof structure and appliances for maximum energy generation.",
+      "scope": [
+        "Custom CAD layout simulation for RCC terraces, metal sheds, or elevated structures",
+        "Inverter string sizing and DC/AC ratio optimization",
+        "Single Line Diagram (SLD) preparation",
+        "Wind load and structural safety design"
+      ]
+    },
+    {
+      "id": "equipment",
+      "stage": "03",
+      "title": "Complete Equipment Supply",
+      "category": "Equipment Supply",
+      "description": "Direct supply of Tier-1 solar panels, certified inverters, galvanized mounting structures, and electrical BOS under one roof.",
+      "scope": [
+        "Tier-1 Mono-PERC & TopCon high-efficiency solar modules",
+        "Certified on-grid, hybrid, and micro-inverters with mobile monitoring",
+        "Hot-dip galvanized (GI) and anodized aluminum mounting structures",
+        "ACDB/DCDB boxes, copper cabling, earthing electrodes, and lightning arrestors"
+      ]
+    },
+    {
+      "id": "installation",
+      "stage": "04",
+      "title": "Turnkey Installation & Grid Sync",
+      "category": "Turnkey Installation",
+      "description": "Safe mechanical structure mounting, precision electrical wiring, earthing pits, and net metering grid synchronization.",
+      "scope": [
+        "Waterproof mechanical roof anchoring without leaks",
+        "Chemical copper earthing pits and surge protection installation",
+        "UV-resistant conduits and neat cable-tray routing",
+        "Testing, commissioning, and DISCOM bidirectional meter connection"
+      ]
+    },
+    {
+      "id": "maintenance",
+      "stage": "05",
+      "title": "Solar Cleaning & Maintenance",
+      "category": "Maintenance & AMC",
+      "description": "Regular panel washing, electrical health diagnostics, fault troubleshooting, and ongoing service support.",
+      "scope": [
+        "Scheduled de-mineralized panel cleaning to restore lost generation",
+        "Quarterly electrical health inspection and hot-spot checks",
+        "Inverter troubleshooting and rapid warranty replacement",
+        "Annual Maintenance Contracts (AMC) for new and existing systems"
+      ]
+    }
+  ],
+  "solutions": [
+    {
+      "type": "Residential Solar",
+      "target": "Independent Homes, Bungalows, Villas",
+      "typicalCapacity": "3 kW – 10 kW",
+      "billReduction": "Up to 90%",
+      "subsidySupport": "PM Surya Ghar Muft Bijli Yojana"
+    },
+    {
+      "type": "Housing Society Solar",
+      "target": "Apartments, High-Rise Towers, Residential Societies",
+      "typicalCapacity": "20 kW – 80 kW",
+      "commonLoadOffset": "Lifts, Water Pumps, Streetlights, Clubhouse",
+      "maintenanceRelief": "Direct savings on society maintenance funds"
+    },
+    {
+      "type": "Commercial Solar",
+      "target": "Offices, Retail Showrooms, Hospitals, Hotels, Schools",
+      "typicalCapacity": "25 kW – 150 kW+",
+      "benefits": "Accelerated depreciation tax benefits, lower operating overhead"
+    },
+    {
+      "type": "Industrial Solar",
+      "target": "Manufacturing Plants, Textile Mills, Chemical Factories, Warehouses",
+      "typicalCapacity": "100 kW – 1 MW+",
+      "benefits": "Heavy tariff reduction, peak demand management, long-term hedging"
+    }
+  ],
+  "frequentlyAskedQuestions": [
+    {
+      "question": "What areas in Gujarat do you serve?",
+      "answer": "We primarily serve Surat (Bhestan, Vesu, Adajan, Katargam, Varachha, Hazira, Pandesara, Sachin) as well as Navsari, Bardoli, Ankleshwar, Bharuch, and South Gujarat."
+    },
+    {
+      "question": "Do you help with net metering in Surat?",
+      "answer": "Yes, we coordinate all net metering applications with DGVCL (Dakshin Gujarat Vij Company Ltd) and Torrent Power, including meter testing and bi-directional meter synchronization."
+    },
+    {
+      "question": "Can I get maintenance if my solar plant was installed by someone else?",
+      "answer": "Yes. We offer panel cleaning, inverter diagnostics, repair services, and AMC contracts for systems installed by any vendor."
+    },
+    {
+      "question": "What are your office hours?",
+      "answer": "Our corporate office in Bhestan, Surat is open Monday through Saturday from 9:00 AM to 8:00 PM."
+    }
+  ]
+}
